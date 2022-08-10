@@ -21,7 +21,7 @@
 
 ## :bookmark_tabs: About
 
-## Project referring to the practical class of HTML, CSS and JavaScript of the [Manual do Dev](https://www.youtube.com/c/ManualdoDev) channel. In this class, I was able to review in practice important JavaScript concepts, such as asynchronisms, fetchAPI promises and the like. In addition to practicing front-end skills.
+Project referring to the practical class of HTML, CSS and JavaScript of the [Manual do Dev](https://www.youtube.com/c/ManualdoDev) channel. In this class, I was able to review in practice important JavaScript concepts, such as asynchronisms, fetchAPI promises and the like. In addition to practicing front-end skills.
 
 ### :hammer: **Technologies**
 
